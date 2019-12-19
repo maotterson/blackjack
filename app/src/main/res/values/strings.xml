@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Blackjack Game</string>
+
+
+    <string name="header_human">Human</string>
+    <string name="header_computer">Computer</string>
+
+    <string name="label_button_deal">Deal</string>
+    <string name="label_button_hit">Hit</string>
+    <string name="label_button_stay">Stay</string>
+    <string name="label_button_double_down">Double Down</string>
+    <string name="label_button_split">Split</string>
+    <string name="label_button_surrender">Surrender</string>'
+
+    <string name="label_result">Result</string>
+    <string name="label_balance">Balance</string>
+    <string name="label_bet_amount">Bet Amount:</string>
+</resources>
